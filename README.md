@@ -1,4 +1,3 @@
-# ResNet50_Image_Classification
 # 🚀 ResNet50 Image Classification (COCO Dataset)
 
 A custom image classifier built with PyTorch and the ResNet50 architecture. This project leverages transfer learning on the COCO 2017 dataset to accurately identify five specific target classes: bicycles, cats, bananas, beds, and traffic lights.
